@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.adobe.flex.compiler:mxmlc_sv:4.0.0.14159">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_sv/4.0.0.14159/mxmlc_sv-4.0.0.14159.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_sv/4.0.0.14159/mxmlc_sv-4.0.0.14159-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_sv/4.0.0.14159/mxmlc_sv-4.0.0.14159-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

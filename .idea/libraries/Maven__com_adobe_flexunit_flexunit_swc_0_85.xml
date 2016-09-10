@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.adobe.flexunit:flexunit:swc:0.85" type="flex">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/flexunit/flexunit/0.85/flexunit-0.85.swc!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/flexunit/flexunit/0.85/flexunit-0.85-asdoc.zip!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/flexunit/flexunit/0.85/flexunit-0.85-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
